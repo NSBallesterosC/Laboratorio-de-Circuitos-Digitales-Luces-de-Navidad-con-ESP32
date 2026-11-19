@@ -35,5 +35,5 @@ For Experiment B, select the Arduino UNO when uploading its corresponding progra
 
 ## Documentation
 - `State_Diagram.png`
-- `State_Transition_Table.png`
+- `State_Transition_Table.PNG`
 - `Circuit_Schematic.pdf`
